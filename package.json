@@ -6,7 +6,7 @@
   "name": "mp2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ylz3333.github.io/mp2",
+  "homepage": "https://ylz3333.github.io/marvel-character-explorer",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
